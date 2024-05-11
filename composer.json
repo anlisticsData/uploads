@@ -1,0 +1,15 @@
+{
+    "name": "inforcomp/uploads",
+    "autoload": {
+        "psr-4": {
+            "AnalisticsData\\Uploads\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "EdislonCSilva"
+        }
+    ],
+    "minimum-stability": "RC",
+    "require": {}
+}
